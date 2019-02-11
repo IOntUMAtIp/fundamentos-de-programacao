@@ -6,3 +6,4 @@ dias = int((total % 365) % 30)
 print('%d ano(s)' % anos)
 print('%d mes(es)' % meses)
 print('%d dia(s)' % dias)
+
